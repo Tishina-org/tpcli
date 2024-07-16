@@ -1,0 +1,8 @@
+[package]
+name = "kupolPatcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bstr = "1.9.1"
+regex = "1.10.5"
