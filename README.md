@@ -13,6 +13,8 @@ you must have `GeometryDash.exe` in the directory where kp is located.
 3. Get the `Patched.exe` file with the replaced links
 4. Profit!
 
+-----
+
 `GD` Pirated version (1gbit/sec download):
 
 `git clone https://huggingface.co/Unitoshkoff/GeometryDash`
