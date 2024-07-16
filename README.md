@@ -15,7 +15,8 @@ you must have `GeometryDash.exe` in the directory where kp is located.
 
 `GD` Pirated version (1gbit/sec download):
 
-git clone https://huggingface.co/Unitoshkoff/GeometryDash
+`git clone https://huggingface.co/Unitoshkoff/GeometryDash`
 
 `GeometryDash.exe` (Latest version, 2.206):
+
 https://huggingface.co/Unitoshkoff/GeometryDash/resolve/main/GeometryDash.exe?download=true
