@@ -1,4 +1,4 @@
-# KPCli - KypolPatcher Command Line Interface
+# KPCli - KupolPatcher Command Line Interface
 Geometry Dash patcher. Written in Rust
 
 # What's that for?
