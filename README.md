@@ -1,8 +1,8 @@
-# KPCli - KupolPatcher Command Line Interface
+# TPCli - TishinaPatcher Command Line Interface
 Geometry Dash patcher. Written in Rust
 
 # What's that for?
-KPCli is a program that allows you to replace the links in GeometryDash with yours, so that the game will send requests to your server, it is necessary for GDPS
+TPCli is a program that allows you to replace the links in GeometryDash with yours, so that the game will send requests to your server, it is necessary for GDPS
 
 # How to use?
 
