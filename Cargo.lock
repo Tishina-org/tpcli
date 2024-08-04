@@ -23,14 +23,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "kupolPatcher"
-version = "0.1.0"
-dependencies = [
- "bstr",
- "regex",
-]
-
-[[package]]
 name = "memchr"
 version = "2.7.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -112,6 +104,14 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
+]
+
+[[package]]
+name = "tishinaPatcher"
+version = "0.1.0"
+dependencies = [
+ "bstr",
+ "regex",
 ]
 
 [[package]]
